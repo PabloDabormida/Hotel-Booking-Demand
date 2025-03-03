@@ -68,6 +68,15 @@ Hotels should focus on retaining the most profitable customers, utilizing data t
 Additionally, identified seasonality patterns could be used to launch targeted marketing campaigns aimed at increasing occupancy during low-demand months and maximizing revenue during peak demand periods.
 These actions will help improve retention, boost profitability, and offer a more tailored experience aligned with customer needs, based on data and objective patterns.
 
+## 📊 **Explore the full interactive dashboard**
+
+🔗 **Dashboard in Tableau Public**
+📌 [Access the Dashboard](https://public.tableau.com/app/profile/pablo.dabormida/viz/HotelBooking-CoderHouseProjet/Home)
+
+📄 **Download the Dashboard file**
+📎 [Download Dashboard (TWBX)](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/main/Hotel%20Tableau%20Project%20-%20Pablo%20Dabormida.twbx)
+
+
 ## Glossary
 
 **• hotel:** Type of Hotel. **Notes:** Resort Hotel - City Hotel.
