@@ -81,7 +81,7 @@ Estas acciones permitirán mejorar la retención, incrementar la rentabilidad y 
 **• is_canceled:** Valor que indica si la reserva fue cancelada. **Notas:** (1) Cancelada - (0) No Cancelada.<br> 
 **• lead_time:** Número de días transcurridos entre la fecha de entrada de la reserva y la fecha de llegada.<br> 
 **• arrival_date_year:**  Año de la Fecha de Llegada.<br> 
-**• arrival_date_month:**  Mes de la Fecha de Lelegada (12 categorias). Notas: “January” a “December”.<br>
+**• arrival_date_month:**  Mes de la Fecha de Lelegada (12 categorias). **Notas:** “January” a “December”.<br>
 **• arrival_date_week_number:** Numero de Semana de la Fecha de Llegada.<br> 
 **• arrival_date_day_of_month:** Dia del mes de la Fecha de Llegada.<br> 
 **• stays_in_weekend_nights:**  Número de noches de fin de semana (sábado o domingo) que el huésped se alojó o reservó para alojarse en el hotel.<br> 
@@ -92,14 +92,14 @@ Estas acciones permitirán mejorar la retención, incrementar la rentabilidad y 
 **• meal:** Tipo de comida reservada. Las categorías se presentan en paquetes de comidas. **Notas:** Indefinida / SC - sin paquete de comida. BB – Bed & Breakfast. HB – Media pensión (desayuno y otra comida, normalmente la cena). FB – - Pensión completa (desayuno, almuerzo y cena).<br> 
 **• country:** País de origen. Las categorías se representan en el formato ISO 3155–3:2013.<br> 
 **• market_segment:** Designación de segmento de mercado. **Notas:** “TA” = “Agentes de Viajes”. “TO” = “Operadoras Turísticas”.<br>
-**• distribution_channel:** Canal de distribución de reservas. Notas: “TA” = “Agentes de viajes”. "TO" = "Tour Operadores".<br>
-**• is_repeated_guest:** Valor que indica si el nombre de la reserva era de un huésped repetido. Notas: (1) is repeated - (0) is not repeated.<br>
+**• distribution_channel:** Canal de distribución de reservas. **Notas:** “TA” = “Agentes de viajes”. "TO" = "Tour Operadores".<br>
+**• is_repeated_guest:** Valor que indica si el nombre de la reserva era de un huésped repetido. **Notas:** (1) is repeated - (0) is not repeated.<br>
 **• previous_cancellations:** Número de reservas anteriores que fueron canceladas por el cliente antes de la reserva actual.<br> 
 **• previous_bookings_not_canceled:** Número de reservas anteriores "no canceladas" por el cliente antes de la reserva actual.<br> 
 **• reserved_room_type:**  Código del tipo de habitación reservada. Se presenta el código en lugar de la designación por razones de anonimato.<br>
 **• assigned_room_type:** Código del tipo de habitación asignada a la reserva. En ocasiones, el tipo de habitación asignada difiere del tipo de habitación reservada debido a razones operativas del hotel. Se presenta un código en lugar de la designación por razones de anonimato.<br>
 **• booking_changes:** Número de cambios/modificaciones realizadas en la reserva desde el momento en que se introdujo la reserva hasta el momento del check-in o cancelación.<br> 
-**• deposit_type:** Indicación de si el cliente realizó un depósito para garantizar la reserva. Esta variable puede asumir tres categorías. Notas: No Deposit – no se realizó ningún depósito - Non Refund – se realizó un depósito por el valor total de la estadía - Refundable –se realizó un depósito con un valor inferior al costo total de la estadía.<br> 
+**• deposit_type:** Indicación de si el cliente realizó un depósito para garantizar la reserva. Esta variable puede asumir tres categorías. **Notas:** No Deposit – no se realizó ningún depósito - Non Refund – se realizó un depósito por el valor total de la estadía - Refundable –se realizó un depósito con un valor inferior al costo total de la estadía.<br> 
 **• agent:** Identificación de la agencia de viajes que realizó la reserva.<br> 
 **• company:** Identificación de la empresa/entidad que realizó la reserva o responsable del pago de la reserva. Notas: Se presenta el ID en lugar de designación por razones de anonimato.<br>
 **• days_in_waiting_list:** Número de días que la reserva estuvo en lista de espera antes de ser confirmada al cliente.<br> 
