@@ -75,6 +75,15 @@ Los hoteles deberían centrarse en fidelizar a los clientes más rentables, util
 Además, se podrían utilizar los patrones de estacionalidad identificados para lanzar campañas de marketing dirigidas, orientadas a incrementar la ocupación en los meses de menor demanda y aprovechar los picos de alta demanda para maximizar los ingresos.
 Estas acciones permitirán mejorar la retención, incrementar la rentabilidad y ofrecer una experiencia más ajustada a las necesidades de los clientes, basadas en datos y patrones objetivos.
 
+## 📊 **Explorar el dashboard interactivo completo**
+
+🔗 **Ver el dashboard en Tableau Public**
+📌 [Acceder al Dashboard](https://public.tableau.com/app/profile/pablo.dabormida/viz/HotelBooking-CoderHouseProjet/Inicio)
+
+📄 **Descargar el archivo del Dashboard**
+📎 [Descargar Dashboard (TWBX)](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/main/Hotel%20Tableau%20Project%20-%20Pablo%20Dabormida.twbx)
+
+
 ## Glosario
 
 **• hotel:** Tipo de Hotel. **Notas:** Resort Hotel - City Hotel.<br> 
