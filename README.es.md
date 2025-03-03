@@ -77,7 +77,7 @@ Estas acciones permitirán mejorar la retención, incrementar la rentabilidad y 
 
 ## 📊 **Explorar el dashboard interactivo completo**
 
-🔗 **Ver el dashboard en Tableau Public**
+🔗 **Ver el Dashboard en Tableau Public**
 📌 [Acceder al Dashboard](https://public.tableau.com/app/profile/pablo.dabormida/viz/HotelBooking-CoderHouseProjet/Inicio)
 
 📄 **Descargar el archivo del Dashboard**
