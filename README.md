@@ -56,17 +56,35 @@ The data analysis conducted on the operations of both hotels (Resort Hotel and C
 
 **• Seasonality and Demand:** Clear seasonality patterns are observed, directly impacting occupancy rates and overall booking demand. High and low occupancy months have been precisely identified, allowing for more effective demand forecasting. 
 Leveraging this insight, hotels could implement dynamic pricing policies to adjust rates based on projected demand. During low occupancy periods, discounts or promotional packages could be offered to attract more customers, maximizing RevPar.
+<br>
+<br>
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/9cf8f1521602fa773070b415df6c633646c494ea/assets/Captura%20de%20pantalla%202025-03-03%20143236.png)
+<br>
 
 **• Cancellations and No-Shows:** The data reveals a significant cancellation rate, especially during certain times of the year, negatively affecting potential revenue. The analysis of cancellations and no-shows highlights the need to review cancellation policies and encourage early booking confirmations.
 It is advisable to revise and strengthen cancellation policies or implement incentives to ensure customers keep their reservations, such as discounts for early payments or stricter penalties for last-minute cancellations.
+<br>
+<br>
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/9cf8f1521602fa773070b415df6c633646c494ea/assets/Captura%20de%20pantalla%202025-03-03%20143820.png)
+<br>
 
 **• Revenue and Profitability:** A detailed revenue analysis indicates that ADR (Average Daily Rate) has a significant influence on RevPAR (Revenue per Available Room). Fluctuations in rates over time were detected, suggesting optimization opportunities, especially during low occupancy periods.
 During periods of low demand, resource management strategies can be implemented to optimize costs. Additionally, improving communication with customers to reduce no-shows could have a positive impact on occupancy and revenue.
+<br>
+
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/d38cdf15bf5d46043b8fdac150e88b64e35d4905/assets/Captura%20de%20pantalla%202025-03-03%20163233.png)
+<br>
 
 **• Customer Segmentation:** The segmentation analysis revealed that certain customer groups generate higher profitability than others, opening the opportunity to adjust marketing and loyalty strategies to focus on these key segments.
 Hotels should focus on retaining the most profitable customers, utilizing data to personalize offers, enhance customer experience, and increase loyalty, which will ultimately improve profitability in the long run.
 Additionally, identified seasonality patterns could be used to launch targeted marketing campaigns aimed at increasing occupancy during low-demand months and maximizing revenue during peak demand periods.
 These actions will help improve retention, boost profitability, and offer a more tailored experience aligned with customer needs, based on data and objective patterns.
+<br>
+
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/9cf8f1521602fa773070b415df6c633646c494ea/assets/Captura%20de%20pantalla%202025-03-03%20143433.png)
+
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/d38cdf15bf5d46043b8fdac150e88b64e35d4905/assets/Captura%20de%20pantalla%202025-03-03%20143626.png)
+
 
 ## 📊 **Explore the full interactive dashboard**
 
@@ -75,8 +93,8 @@ These actions will help improve retention, boost profitability, and offer a more
 
 📄 **Download the Dashboard file**
 📎 [Download Dashboard (TWBX)](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/main/Hotel%20Tableau%20Project%20-%20Pablo%20Dabormida.twbx)
-
-
+<br>
+<br>
 ## Glossary
 
 **• hotel:** Type of Hotel. **Notes:** Resort Hotel - City Hotel.
