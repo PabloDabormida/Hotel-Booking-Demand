@@ -74,3 +74,36 @@ Los hoteles deberían centrarse en fidelizar a los clientes más rentables, util
 
 Además, se podrían utilizar los patrones de estacionalidad identificados para lanzar campañas de marketing dirigidas, orientadas a incrementar la ocupación en los meses de menor demanda y aprovechar los picos de alta demanda para maximizar los ingresos.
 Estas acciones permitirán mejorar la retención, incrementar la rentabilidad y ofrecer una experiencia más ajustada a las necesidades de los clientes, basadas en datos y patrones objetivos.
+
+**hotel:** Tipo de Hotel. **Notas:** Resort Hotel - City Hotel. 
+**is_canceled:** Valor que indica si la reserva fue cancelada. **Notas:** (1) Cancelada - (0) No Cancelada. 
+**lead_time:** Número de días transcurridos entre la fecha de entrada de la reserva y la fecha de llegada. 
+**arrival_date_year:**  Año de la Fecha de Llegada. 
+**arrival_date_month:**  Mes de la Fecha de Lelegada (12 categorias). Notas: “January” a “December”.
+**arrival_date_week_number:** Numero de Semana de la Fecha de Llegada. 
+**arrival_date_day_of_month:** Dia del mes de la Fecha de Llegada . 
+**stays_in_weekend_nights:**  Número de noches de fin de semana (sábado o domingo) que el huésped se alojó o reservó para alojarse en el hotel. 
+**stays_in_week_nights:** Número de noches de la semana (de lunes a viernes) que el huésped se alojó o reservó para alojarse en el hotel. 
+**adults:** Numero de Adultos 
+**children:** Numero de Niños 
+**babies:** Numero de Bebes 
+**meal:** Tipo de comida reservada. Las categorías se presentan en paquetes de comidas. Notas: Indefinida / SC - sin paquete de comida. BB – Bed & Breakfast. HB – Media pensión (desayuno y otra comida, normalmente la cena). FB – - Pensión completa (desayuno, almuerzo y cena) 
+**country:** País de origen. Las categorías se representan en el formato ISO 3155–3:2013. 
+**market_segment:** Designación de segmento de mercado. **Notas:** “TA” = “Agentes de Viajes”. “TO” = “Operadoras Turísticas”.
+**distribution_channel:** Canal de distribución de reservas. Notas: “TA” = “Agentes de viajes”. "TO" = "Tour Operadores".
+**is_repeated_guest:** Valor que indica si el nombre de la reserva era de un huésped repetido. Notas: (1) is repeated - (0) is not repeated.
+**previous_cancellations:** Número de reservas anteriores que fueron canceladas por el cliente antes de la reserva actual. 
+**previous_bookings_not_canceled:** Número de reservas anteriores "no canceladas" por el cliente antes de la reserva actual. 
+**reserved_room_type:**  Código del tipo de habitación reservada. Se presenta el código en lugar de la designación por razones de anonimato.
+**assigned_room_type:** Código del tipo de habitación asignada a la reserva. En ocasiones, el tipo de habitación asignada difiere del tipo de habitación reservada debido a razones operativas del hotel. Se presenta un código en lugar de la designación por razones de anonimato.
+**booking_changes:** Número de cambios/modificaciones realizadas en la reserva desde el momento en que se introdujo la reserva hasta el momento del check-in o cancelación. 
+**deposit_type:** Indicación de si el cliente realizó un depósito para garantizar la reserva. Esta variable puede asumir tres categorías. Notas: No Deposit – no se realizó ningún depósito - Non Refund – se realizó un depósito por el valor total de la estadía - Refundable –se realizó un depósito con un valor inferior al costo total de la estadía. 
+**agent:** Identificación de la agencia de viajes que realizó la reserva. 
+**company:** Identificación de la empresa/entidad que realizó la reserva o responsable del pago de la reserva. Notas: Se presenta el ID en lugar de designación por razones de anonimato.
+**days_in_waiting_list:** Número de días que la reserva estuvo en lista de espera antes de ser confirmada al cliente 
+**customer_type:** Tipo de reserva, suponiendo una de cuatro categorías. Notas: Contract - cuando la reserva tiene un cupo u otro tipo de contrato asociado. Group – cuando la reserva está asociada a un grupo. Transient – cuando la reserva no forma parte de un grupo o contrato y no está 
+asociada a otra reserva transitoria. Transient-party –cuando la reserva es transitoria, pero está asociada al menos a otra reserva transitoria. adr: Average Daily Rate (Tarifa diaria promedio). 
+required_car_parking_spaces: Número de plazas de aparcamiento solicitadas por el cliente 
+**total_of_special_requests:** Número de peticiones especiales realizadas por el cliente (por ejemplo, dos camas individuales o piso alto). 
+**reservation_status**: Último estado de la reserva, asumiendo una de tres categorías. Notas: Canceled – la reserva fue cancelada por el cliente. Check-Out – el cliente ha realizado el check-in pero ya se fue. No-Show – el cliente no realizo el Check-in y no informó al hotel el motivo.
+reservation_status_date: Fecha en la que se estableció la ultima actualizacion de estado. Esta variable se puede utilizar junto con ReservationStatus para comprender cuándo se canceló la reserva o cuándo el cliente abandonó el hotel.
