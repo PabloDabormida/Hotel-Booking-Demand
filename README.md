@@ -1,5 +1,8 @@
 # Hotel-Booking-Demand
 
+🇪🇸 **Este proyecto está disponible en [Español](README.es.md)**  
+
+
 ## Abstract
 This data article describes two datasets with hotel demand data. One of the hotels (H1) is a resort hotel and the other is a city hotel (H2). Both datasets share the same structure, with 31 variables describing the 40,060 observations of H1 and 79,330 observations of H2. Each observation represents a hotel booking. Both datasets comprehend bookings due to arrive between the 1st of July of 2015 and the 31st of August 2017, including bookings that effectively arrived and bookings that were canceled. Since this is hotel real data, all data elements pertaining hotel or costumer identification were deleted. Due to the scarcity of real business data for scientific and educational purposes, these datasets can have an important role for research and education in revenue management, machine learning, or data mining, as well as in other fields.
 <br>
@@ -65,7 +68,61 @@ Hotels should focus on retaining the most profitable customers, utilizing data t
 Additionally, identified seasonality patterns could be used to launch targeted marketing campaigns aimed at increasing occupancy during low-demand months and maximizing revenue during peak demand periods.
 These actions will help improve retention, boost profitability, and offer a more tailored experience aligned with customer needs, based on data and objective patterns.
 
+## Glossary
 
+**• hotel:** Type of Hotel. **Notes:** Resort Hotel - City Hotel.
+
+**• is_canceled:** Value indicating whether the reservation was canceled. **Notes:** (1) Canceled - (0) Not Canceled.
+
+**• lead_time:** Number of days between the reservation's check-in date and the arrival date.
+
+**• arrival_date_year:** Year of the Arrival Date.
+
+**• arrival_date_month:** Month of the Arrival Date (12 categories). **Notes:** “January” to “December”.
+
+**• arrival_date_week_number:** Week Number of the Arrival Date.
+
+**• arrival_date_day_of_month:** Day of the month of the Arrival Date.
+
+**• stays_in_weekend_nights:** Number of weekend nights (Saturday or Sunday) that the guest stayed or reserved to stay at the hotel.
+
+**• stays_in_week_nights**: Number of week nights (Monday to Friday) that the guest stayed or reserved to stay at the hotel.
+
+**• adults:** Number of Adults.
+
+**• children**: Number of Children.
+
+**• babies:** Number of Babies.
+
+**• meal:** Type of meal reserved. Categories are presented in meal packages.** Notes:** Undefined / SC - no meal package. BB – Bed & Breakfast. HB – Half Board (breakfast and one other meal, usually dinner). FB – Full Board (breakfast, lunch, and dinner).
+
+**• country:** Country of origin. Categories are represented in the ISO 3166-1 alpha-3 format.
+
+**• market_segment:** Market segment designation. **Notes:** “TA” = “Travel Agents”. “TO” = “Tour Operators”.
+
+**• distribution_channel:** Reservation distribution channel. **Notes:** “TA” = “Travel Agents”. “TO” = “Tour Operators”.
+
+**• is_repeated_guest:** Value indicating whether the reservation name belonged to a repeated guest. **Notes:** (1) is repeated - (0) is not repeated.
+
+**• previous_cancellations:** Number of previous reservations that were canceled by the customer before the current reservation.
+
+**• previous_bookings_not_canceled:** Number of previous "not canceled" reservations by the customer before the current reservation.
+
+**• reserved_room_type:** Code of the reserved room type. The code is presented instead of the designation for anonymity reasons.
+
+**• assigned_room_type:** Code of the room type assigned to the reservation. Sometimes, the assigned room type differs from the reserved room type due to operational reasons of the hotel. The code is presented instead of the designation for anonymity reasons.
+
+**• booking_changes:** Number of changes/modifications made to the reservation from the time it was entered until check-in or cancellation.
+
+**• deposit_type:** Indication of whether the customer made a deposit to guarantee the reservation. This variable can take three categories. **Notes:** No Deposit – no deposit was made - Non Refund – a deposit was made for the total value of the stay - Refundable – a deposit was made with an amount less than the total cost of the stay.
+
+**• agent:** Identification of the travel agency that made the reservation.
+
+**• company:** Identification of the company/entity that made the reservation or is responsible for the payment of the reservation. **Notes:** The ID is presented instead of the designation for anonymity reasons.
+
+**• days_in_waiting_list:** Number of days the reservation was on the waiting list before being confirmed to the customer.
+
+**• customer_type:** Type of reservation, assuming one of four categories. Notes: Contract - when the reservation has a quota
 
 
 
