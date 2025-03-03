@@ -62,15 +62,32 @@ El análisis de datos realizado sobre las operaciones de los dos hoteles (Resort
 
  **•** Estacionalidad y Demanda: Se observan patrones claros de estacionalidad que impactan directamente en la tasa de ocupación y en la demanda general de reservas. Los meses de alta y baja ocupación han sido identificados con precisión, lo que permite anticipar la demanda de manera más efectiva.
 Aprovechando esto, los hoteles podrían implementar una política de precios dinámicos para ajustar las tarifas en función de la demanda proyectada. Durante los períodos de baja ocupación, se podrían ofrecer descuentos o paquetes promocionales que atraigan a más clientes, maximizando el RevPar.
+<br>
+<br>
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/9cf8f1521602fa773070b415df6c633646c494ea/assets/Captura%20de%20pantalla%202025-03-03%20143236.png)
+<br>
 
  **•** Cancelaciones y No-Show: Los datos revelan una tasa considerable de cancelaciones, especialmente en determinadas épocas del año, lo que afecta negativamente los ingresos potenciales. El análisis de cancelaciones y no-show muestra la necesidad de revisar las políticas de cancelación, así como de incentivar la confirmación anticipada de reservas.
  Es recomendable revisar y endurecer las políticas de cancelación o implementar incentivos para que los clientes mantengan sus reservas, como descuentos por pago anticipado o penalizaciones más estrictas por cancelaciones de último minuto.
+ <br>
+<br>
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/9cf8f1521602fa773070b415df6c633646c494ea/assets/Captura%20de%20pantalla%202025-03-03%20143820.png)
+<br>
 
  **•** Ingresos y Rentabilidad: El análisis detallado de los ingresos indica que el ADR (tarifa promedio diaria) tiene una influencia significativa sobre el RevPAR (ingreso por habitación disponible). Se detectaron fluctuaciones en las tarifas a lo largo del tiempo, sugiriendo oportunidades de optimización, especialmente en los períodos de baja ocupación.
 Durante los períodos de baja demanda, se pueden implementar estrategias de ajustes en la gestión de recursos para optimizar costos. Además, la mejora de la comunicación con los clientes para reducir los no-shows podría tener un impacto positivo en la ocupación y los ingresos.
+<br>
+
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/d38cdf15bf5d46043b8fdac150e88b64e35d4905/assets/Captura%20de%20pantalla%202025-03-03%20163233.png)
+<br>
 
  **•** Segmentación de Clientes: La segmentación reveló que ciertos grupos de clientes generan mayor rentabilidad que otros, lo que abre la posibilidad de ajustar las estrategias de marketing y fidelización para centrarse en esos segmentos clave.
 Los hoteles deberían centrarse en fidelizar a los clientes más rentables, utilizando los datos para personalizar ofertas, mejorar la experiencia del cliente e incrementar la lealtad, lo que a largo plazo aumentará la rentabilidad.
+<br>
+
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/9cf8f1521602fa773070b415df6c633646c494ea/assets/Captura%20de%20pantalla%202025-03-03%20143433.png)
+
+![](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/d38cdf15bf5d46043b8fdac150e88b64e35d4905/assets/Captura%20de%20pantalla%202025-03-03%20143626.png)
 
 Además, se podrían utilizar los patrones de estacionalidad identificados para lanzar campañas de marketing dirigidas, orientadas a incrementar la ocupación en los meses de menor demanda y aprovechar los picos de alta demanda para maximizar los ingresos.
 Estas acciones permitirán mejorar la retención, incrementar la rentabilidad y ofrecer una experiencia más ajustada a las necesidades de los clientes, basadas en datos y patrones objetivos.
@@ -82,8 +99,8 @@ Estas acciones permitirán mejorar la retención, incrementar la rentabilidad y 
 
 📄 **Descargar el archivo del Dashboard**
 📎 [Descargar Dashboard (TWBX)](https://github.com/PabloDabormida/Hotel-Booking-Demand/blob/main/Hotel%20Tableau%20Project%20-%20Pablo%20Dabormida.twbx)
-
-
+<br>
+<br>
 ## Glosario
 
 **• hotel:** Tipo de Hotel. **Notas:** Resort Hotel - City Hotel.<br> 
